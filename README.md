@@ -55,12 +55,13 @@ Example:
 
 #### How to build the site
 
-First install Jekyll, with `gem`:
+First install Jekyll and RDiscount, with `gem`:
 
     sudo gem install jekyll
+    sudo gem install rdiscount
 
 To see the site as it will appear after processing by Jekyll and review your edits live in a browser layout, run:
 
-    jekyll --server
+    jekyll serve
 
 Now browse [http://localhost:4000/](http://localhost:4000/)

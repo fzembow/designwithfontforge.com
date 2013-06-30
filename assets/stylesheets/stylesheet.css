@@ -130,6 +130,10 @@ header h2 {
 
 #main-content img {
   max-width: 100%;
+  -ms-box-shadow:0 1px 4px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;
+  -webkit-box-shadow:0 1px 4px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;
+  -moz-box-shadow:0 1px 4px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;
+  box-shadow:0 1px 4px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;
 }
 
 aside#sidebar {
@@ -278,7 +282,7 @@ form {
 
 #main-content h3 {
   font-family: 'Merriweather Sans', serif; 
-  font-size: 15px;
+  font-size: 20px;
   font-weight: normal;
   margin-top: 24px;
   margin-bottom: 8px;
@@ -294,16 +298,17 @@ form {
 
 #main-content h4 {
   font-family: 'Merriweather Sans', serif; 
-  font-size: 15px;
+  font-size: 18px;
   font-weight: normal;
+  margin-bottom:4px;
   color: #474747;
 } 
 
 h4:before {
-  content: "////";
+  content: "//";
   color: #9ddcff;
   padding-right: 0.3em;
-  margin-left: -2.8em;
+  margin-left: -1.25em;
 }
 
 #main-content h5 {

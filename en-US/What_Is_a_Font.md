@@ -8,13 +8,13 @@ title: What Is A Font?
 
 What makes typefaces different from hand-writing, calligraphy, lettering, and logos?
 
-The single biggest issue that makes type design different is the need for every glyph in the typeface to work with every other glyph. This often means that the design and spacing of each part of the typeface ends up being a series of careful compromises. These compromises mean that we can best think about typeface design as the creation a wonderful collection of letters but not as a collection of wonderful letters. In other words we must think about the group and how it will perform together and prioritize this over any question of what is wonderful in a single letter.
+The single biggest issue that makes type design different is the need for every glyph in the typeface to work with every other glyph. The design and spacing of each part of the typeface ends up being a series of careful compromises. Due to these compromises, typeface design can be thought of as the creation a wonderful collection of letters but not as a collection of wonderful letters. In other words, we must think about the group and how it will perform together and prioritize this over any question of what is wonderful in a single letter.
 
-This need to prioritize with the system rather than with any single part also leads to a need to analyse our design process on the level of the system. Characteristics which span letters become the things we want to focus on particularly at the begin of the design process.
+This need to prioritize the system rather than any single part also leads to a need to analyse our design process on the system level. Particularly at the beginning of the design process, we want to focus on the characteristics which span letters.
 
-The other oddity in type design is that to very large extent the forms we are designing are already significantly established. Our task as type designers is not so much to create an utterly new form but rather to create a new version of an existing form. This can perplex new type designers. Finding the just right amount to change in order to excite but not to alienate a reader is a tricky thing. Often designers get stuck in letter-specific thinking. This mistake can be easily avoided if you realize from the start that what is most meaningful in a typeface are the parts of it that repeat the most. This typeface design is mostly about designing the characteristics applied not just to the common forms we all recognize but to the characteristics that occur the most often.
+The other oddity in type design is that to very large extent the forms we are designing are already significantly established. Our task as type designers is not so much to create an utterly new form, but rather to create a new version of an existing form. This can perplex new type designers. Finding the just right amount to change in order to excite but not to alienate a reader is a tricky thing. Often designers get stuck in letter-specific thinking. This mistake can be easily avoided if you realize from the start that what is most meaningful in a typeface are the parts of it that repeat the most. Typeface design is mostly about designing the characteristics applied not just to the common forms we all recognize, but to the characteristics that occur the most often.
 
-It is also useful to recognize that these characteristics not only help to create a font’s voice or atmosphere, but also determine what the font will or will not be useful for, and they sometimes help determine the technological contexts for which a font is suitable.
+These characteristics not only help to create a font’s voice or atmosphere, but also determine what the font will or will not be useful for, and they sometimes help determine the technological contexts for which a font is suitable.
 
 It may seem intimidating or excessively abstract to think about the design of a font in this way. However, getting used to these ideas is the key to a faster, more effective, and satisfying type design process.  
 
@@ -24,7 +24,9 @@ Let's begin by identifying the main systemic characteristics in type design.
 
 <img src="images/Construction2.png" alt="">
 
-Construction refers to the underlying strokes that form a particular glyph. The kind of construction you use is arguably one of the most important questions to think about, because the construction implies so much about the remaining choices, particularly if your design is going to feel somewhat familiar to readers. In the example above, the white line inside the letters indicate the approximate construction suggested by the shape of the letters themselves.<img src="images/AAA.png" alt="">
+Construction refers to the underlying strokes that form a particular glyph. The kind of construction you use is arguably one of the most important questions to think about, because the construction implies so much about the remaining choices, particularly if your design is going to feel somewhat familiar to readers. In the example above, the white line inside the letters indicate the approximate construction suggested by the shape of the letters themselves.
+
+<img src="images/AAA.png" alt="">
 
 ### Proportion of X-height to Cap-height
 
@@ -44,19 +46,23 @@ Ascenders usually exceed the cap-height by at least a little, especially in text
 
 <img src="images/Descender%20depth.png" alt="">
 
-Like ascenders, descenders that are long can feel elegant. Long ascenders and descenders can also be difficult to manage.
+Like elongated ascenders, longer descenders can feel elegant, although it can be difficult to manage their interaction with other glyphs, particularly those with ascenders and descenders.
 
 ## Width
 
 <img src="images/width.png" alt="">
 
-The width of a type design will alter not just how it feels but also what it is useful for. The example on the right is from a text face. The example on the left is from a display design meant to be eye catching. Letters that are more narrow than the text face example are also possible and can be used to save space or to fit more text in a smaller space.
+The width of a type design will alter not just how it feels but also what it is useful for. The example on the right is from a text face. The example on the left is from a display design meant to be eye catching. Narrower letters are also possible and can be used to fit more text into a smaller space.
 
-### Width regularity versus variability
+### Width variability
 
-The letters in the top row of this example show a greater variety of width than do the letters in the bottom row.<img src="images/Width%20regularity.png" alt="">
+The letters in the top row of this example show a greater variety of width than do the letters in the bottom row.
+
+<img src="images/Width%20regularity.png" alt="">
 
 ### Weight
+
+Weight refers to the thickness or heaviness of a typeface. Indeed, a font family may have many weight variants, ranging from <i>Ultra-light</i> (100) to <i>Ultra-heavy</i> (900). The default weight of a typeface (500) is often referred to as the "Normal", "Regular", or "Medium" weight.
 
 <img src="images/Weight.png" alt="">
 
@@ -66,11 +72,15 @@ The letters in the top row of this example show a greater variety of width than 
 
 ### Contrast
 
-Contrast refers to how much variation in stroke width is found within a glyph. Notice in the below two O glyphs that the one on the left has much greater variability in line thickness between the top and sides of the glyph. Both glyphs have some contrast, but the one on the left has much more than the one on the right.<img src="images/Contrast.png" alt="">
+Contrast refers to how much variation in stroke width is found within a glyph. Notice in example below that the O on the left has much greater variability in line thickness between the top and sides of the glyph. Both glyphs have some contrast, but the one on the left has more than the one on the right.
+
+<img src="images/Contrast.png" alt="">
 
 ### Angle of contrast
 
-In the below image, we see that the thin parts of the lower case letter o shapes are different. In the glyph on the left, the thin points lie on a perfectly vertical axis. In the glyph on the right the axis is diagonal. <img src="images/Angle%20of%20contrast.png" alt="">
+In the below image, we see that the thin parts of the lower case letter o shapes are different. In the glyph on the left, the thin points lie on a perfectly vertical axis. In the glyph on the right the axis is diagonal.
+
+<img src="images/Angle%20of%20contrast.png" alt="">
 
 ### Weight distribution
 
@@ -122,7 +132,7 @@ It is easy to assume that your stems will simply be straight and that there are 
 
 <img src="images/6speed_1.png" alt="">
 
-The n on the left seems to be written much faster than the one on the right. Speed is discussed in more detail in the chapter on italics.
+The n on the left feels like it was written much faster than the one on the right. Speed is discussed in more detail in the chapter on italics.
 
 ### Regularity
 
